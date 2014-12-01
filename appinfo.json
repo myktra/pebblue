@@ -1,0 +1,17 @@
+{
+  "uuid": "2f2b03e9-78c6-4309-8124-fe3b7024a7c3",
+  "shortName": "pebblue",
+  "longName": "pebblue",
+  "companyName": "myktra",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

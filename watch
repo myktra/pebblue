@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# build, install, and log the pebble app
+pebble build && pebble install --phone $PEBBLE_IP && pebble logs --phone $PEBBLE_IP
